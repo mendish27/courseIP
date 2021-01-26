@@ -1,0 +1,34 @@
+
+
+@font-face {
+    font-family: "Montserrat-Bold";
+//src: url(../fonts/Montserrat-Bold.ttf); }
+
+body {
+    background-color: #2E3C2E;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-family: Montserrat-Bold;
+}
+h1 {
+    width: 20px;
+    color: #000000;
+}
+h2 {
+    color: #000000;
+}
+.header-style {
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 96px;
+    margin-bottom: 40px;
+}
